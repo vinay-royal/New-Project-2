@@ -14,8 +14,8 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://3.108.228.202:9000/</sonar.host.url>
-	<sonar.login>278e459a67b48881fbe2d64de73bed5527118951</sonar.login>
+	<sonar.host.url>http://3.109.186.217:9000/</sonar.host.url>
+	<sonar.login>4200089f3a3bcb2864ffed915229d972b04ec12b</sonar.login>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
